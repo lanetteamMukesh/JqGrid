@@ -1,0 +1,11 @@
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\MukeshDB.mdf
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\MukeshDB_log.ldf
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\DataLayer.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\DataLayer.pdb
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\BussinessLayer\obj\Debug\BussinessLayer.pdb

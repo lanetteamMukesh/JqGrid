@@ -1,0 +1,12 @@
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\MukeshDB.mdf
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\MukeshDB_log.ldf
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\DataLayer.dll.config
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\DataLayer.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\DataLayer.pdb
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\EntityFramework.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\EntityFramework.xml
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\obj\Debug\DataLayer.dll
+E:\.Net Mukesh\WebSite1\WebSite1\PopUpModal\DataLayer\obj\Debug\DataLayer.pdb
